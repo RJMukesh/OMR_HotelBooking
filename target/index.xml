@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="35.287" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Verifying OMR Branch Hotel Login Automation" name="Verifying Login with valid Credentials - Example #1.1" time="34.99">
+<system-out><![CDATA[
+Given User is on the OMR Branch hotel page..................................passed
+When User login "mukeshkumar.r01127@gmail.com","Mukesh@1127"................passed
+Then User should verify Success message after login "Welcome Mukesh"........passed
+]]></system-out>
+</testcase>
+</testsuite>
